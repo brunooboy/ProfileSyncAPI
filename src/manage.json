@@ -1,0 +1,15 @@
+{
+    "app": {
+        "version": "1.0.0",
+        "last_update": "11/07/2024",
+        "cache": {
+            "enabled": true
+        },
+        "url": "https://api.nerdstars.fun"
+    },
+    "sub_process": {
+        "port": "3000",
+        "url": "http://localhost"
+    },
+    "by": "brunooboy"
+}
