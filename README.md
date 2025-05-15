@@ -10,4 +10,4 @@ API desenvolvida para coletar e gerenciar informações de perfil de usuários d
 ## ⚙️ Tecnologias usadas
 - Node.js
 - Express.js
-- MongoDB ou PostgreSQL (se aplicável)
+- MongoDB ou PostgreSQL (recomendo integrar)
